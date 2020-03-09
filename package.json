@@ -1,0 +1,16 @@
+{
+  "name": "mar9todo",
+  "version": "1.0.0",
+  "description": "simple todo list",
+  "main": "public/index.html",
+  "scripts": 
+  { 
+    "start" : "parcel public/index.html",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
