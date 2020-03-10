@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "description": "simple todo list",
   "main": "public/index.html",
-  "scripts": 
-  { 
-    "start" : "parcel public/index.html",
+  "scripts": {
+    "start": "parcel public/index.html",
     "test": "jest"
   },
-  "author": "",
+  "author": "Thomas Casse",
   "license": "MIT",
   "dependencies": {
+    "firebase": "^7.10.0",
     "parcel-bundler": "^1.12.4"
   }
 }
